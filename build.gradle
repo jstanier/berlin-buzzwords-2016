@@ -1,9 +1,10 @@
 group 'org.jstanier'
 version '1.0-SNAPSHOT'
 
-apply plugin: 'java'
+apply plugin: 'application'
 
-sourceCompatibility = 1.5
+sourceCompatibility = JavaVersion.VERSION_1_8
+mainClassName = 'org.jstanier.probabilistic.Main'
 
 repositories {
     mavenCentral()
