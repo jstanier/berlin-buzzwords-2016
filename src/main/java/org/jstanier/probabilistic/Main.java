@@ -1,5 +1,7 @@
 package org.jstanier.probabilistic;
 
+import org.jstanier.probabilistic.benchmarks.BloomFilterAndSetBenchmark;
+
 import java.io.IOException;
 
 public class Main {

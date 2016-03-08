@@ -12,4 +12,5 @@ repositories {
 
 dependencies {
     compile 'com.google.guava:guava:19.0'
+    compile 'org.apache.commons:commons-csv:1.2'
 }
