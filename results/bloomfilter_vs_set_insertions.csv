@@ -1,0 +1,14 @@
+Bloom filter (10),71
+Set (10),0
+Bloom filter (100),17
+Set (100),3
+Bloom filter (1000),84
+Set (1000),58
+Bloom filter (10000),272
+Set (10000),122
+Bloom filter (100000),556
+Set (100000),836
+Bloom filter (1000000),5173
+Set (1000000),7395
+Bloom filter (10000000),38025
+Set (10000000),51048
